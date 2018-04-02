@@ -12,6 +12,7 @@ public class EmployeeAdmin {
 		and you must define your own Comparator to be used to compare Employees by ssn. 
 	*/
 	public static List<Employee> prepareReport(HashMap<String, Employee> table, List<String> socSecNums) {
+
 		//IMPLEMENT
 		return null;
 		
