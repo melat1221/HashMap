@@ -10,6 +10,8 @@ public class Employee {
 		this.salary = salary;
 		this.ssn=ssn;
 	}
+	
+	
 
 	public String getName() {
 		return name;
